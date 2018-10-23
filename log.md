@@ -2,8 +2,8 @@
 
 ### Day 1: October 23, 2018
 
-**Today's Progress**: Javascript Basics 
+**Today's Progress**: Javascript Basics. Web Development 101 Odin Project
 
-**Thoughts:** Getting my head around the very basics of Javascript
+**Thoughts:** Need a plan in place as jumping from one place to another and not really learning anything.
 
 **Link to work:** 
