@@ -24,7 +24,7 @@
 
 ### Day 3: October 25, 2018
 
-**Today's Progress**: Web Development 101 Odin Project. 
+**Today's Progress**: Web Development 101 Odin Project. Command Line work, Set up working Environment
 
 **Thoughts:** 
 
@@ -35,7 +35,7 @@
 
 ### Day 4: October 26, 2018
 
-**Today's Progress**: Web Development 101 Odin Project. First Ruby on rails app, bit of git and github 
+**Today's Progress**: Web Development 101 Odin Project. First Ruby on rails app, bit of git and github. 
 
 **Thoughts:** 
 
